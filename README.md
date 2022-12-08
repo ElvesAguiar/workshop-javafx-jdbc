@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Uma aplicação de gerenciamento de vendedores ultilizando JavaFX ,no curso Java COMPLETO Programação Orientada a Objetos +Projetos, da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+Uma aplicação de gerenciamento de vendedores ultilizando JavaFX ,no [curso Java COMPLETO Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/), da [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 Lecionado pelo professor Nelio Alves, com algumas das práticas mais ultilizadas no mercado sobre interfaces gráficas.
 
@@ -15,7 +15,6 @@ A hablidade de criar aplicações desktop, apesar de não ser o meu foco atual, 
 ![Web 1](https://github.com/ElvesNogueira/assets/blob/main/departmentLayout.png)
 
 # Tecnologias utilizadas
-## Back end
 - Java
 - JPA / Hibernate
 - JavaFX
