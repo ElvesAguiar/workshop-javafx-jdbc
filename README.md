@@ -9,9 +9,9 @@ Lecionado pelo professor Nelio Alves, com algumas das práticas mais ultilizadas
 
 A hablidade de criar aplicações desktop, apesar de não ser o meu foco atual, vai servir de base para os desafios que o mercado jogar em mim.
 
-## Layout Seller Class
+## Layout SellerView Class
 ![Web 1](https://github.com/ElvesNogueira/assets/blob/main/Sellerlayout.png)
-## Layout Seller Class
+## Layout DepartmentView Class
 ![Web 1](https://github.com/ElvesNogueira/assets/blob/main/departmentLayout.png)
 
 # Tecnologias utilizadas
